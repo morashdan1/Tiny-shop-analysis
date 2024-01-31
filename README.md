@@ -1,4 +1,5 @@
 SQL case study - Tiny Shop Sales
+
 To successfully answer all the questions you should have been exposed to the following areas of SQL:
 
 Basic aggregations
